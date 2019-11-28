@@ -1,0 +1,11 @@
+fun
+*.hi
+*.o
+*.pdf
+*.aux
+*.log
+*.out
+*.*#
+.idea
+dist
+auto
